@@ -1,0 +1,3 @@
+Documentation
+http://localhost:8080/crypto?symbol=AUCTIONUSDT, GET request - to get certain value
+http://localhost:8080/crypto, GET request - to get all values with names
